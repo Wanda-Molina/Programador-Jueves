@@ -1,0 +1,109 @@
+h1.under {
+     text-decoration: underline wavy palevioletred;
+}
+h1{
+     color: pink;
+     /*comentario en css - color de la tipogerafia*/
+
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size: 40px;
+     text-align: center;
+     text-shadow: 1px 27px 7px rgba(0, 0, 0, 0.6);
+}
+img {
+     border-radius: 33px 33px 145px 33px;
+     display: block;
+     margin: auto;
+     border: 10px solid darkblue;
+}
+h2.under {
+     text-decoration: underline wavy palevioletred;
+ }
+h2 {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     text-align: justify;
+}
+h3.under {
+     text-decoration: underline wavy palevioletred;
+ }
+
+h3 {
+
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     text-align: justify;
+}
+h4.under {
+     text-decoration: underline wavy palevioletred;
+ }
+h4 {
+
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     text-align: justify;
+}
+h5.under {
+     text-decoration: underline wavy palevioletred;
+ }
+h5 {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     text-align: justify;
+}
+
+h6.under {
+     text-decoration: underline wavy palevioletred;
+ }
+h6{  
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     text-align: justify;
+
+}
+p {
+     color: rgb(255, 0, 187);
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+     text-align: justify;
+
+}
+.destacados{
+     background-color:rgb(178, 197, 114) ;
+     color: rgba(226, 116, 12, 0.69);
+     font-size: 15px;
+     font-weight: bold;
+     
+}
+.contenedor{
+     background-color: rgb(222, 158, 229);
+	border-radius: 200px 178px 200px 0px;
+     -webkit-border-radius: 200px 178px 200px 0px;
+     -moz-border-radius: 200px 178px 200px 0px;
+     border: 9px solid rgb(110, 8, 103);
+     display: inline-flex;
+	flex-direction: row;
+     flex-wrap: nowrap;
+     justify-content: center;
+     	/*flex-direction: row; */
+   
+
+}
+.item
+{
+     text-align: center;
+	font-size: 30px;
+     margin:50px;
+     height: 350px;
+     width: 150px;
+}
+img {
+     max-width: 100%;
+     max-height: 100%;
+}
+.mayuscula
+ { text-transform: capitalize;}
+
+
+
+
